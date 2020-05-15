@@ -6,7 +6,7 @@
     Wilson Ting wilson@g.com 
 # THANKS
 
-    <name>
+    Everyone
 
 # TECHNOLOGY COLOPHON
 
