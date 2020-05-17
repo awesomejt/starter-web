@@ -14,4 +14,4 @@ Contribute????
 2020 Git.Training.
 
 ### Copyright 
-added something text into copyright
+added something text into copyright All rights reserved.
