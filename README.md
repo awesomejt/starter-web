@@ -7,7 +7,7 @@ Add new line into starter web project, pbaskdiadmasda, more changes
 This is Purpose for the Git training demos.
 
 ## Deployment
-This is simple web project
+This is simple web project. Just another deployment.
 
 ## How to Contribute
 Contribute????	
