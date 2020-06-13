@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nikhil
+	ANkush
+	Surya
+	and other details
 
 # THANKS
 
