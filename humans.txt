@@ -3,11 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nikhil
+	ANkush
+	Surya
+	and other details
+	Surya babu.........
 
 # THANKS
 
-    <name>
+    Thanks to Nikhil, ANk
 
 # TECHNOLOGY COLOPHON
 
