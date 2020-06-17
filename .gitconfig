@@ -1,0 +1,7 @@
+[user]
+	name = wilsonting
+	email = wlsn_ting520@hotmail.com
+#[core]
+# 	editor = mate -w
+[alias]
+	hist = log --all --graph --decorate --oneline

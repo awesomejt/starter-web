@@ -3,11 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Wilson Ting wilson@g.com 
 # THANKS
 
-    <name>
+    Everyone is appreciated.... HAHAHAHAHAHAHA
 
 # TECHNOLOGY COLOPHON
 
