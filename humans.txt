@@ -8,7 +8,7 @@
 his a sample fo rebase
 # THANKS
 
-    <name>
+a big thanks to you
 
 # TECHNOLOGY COLOPHON
 
