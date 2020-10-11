@@ -3,3 +3,5 @@ this is a sample text file
 this has been modified
 
 modified to rebase
+a conflict change
+
