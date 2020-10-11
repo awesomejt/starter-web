@@ -14,3 +14,4 @@ a big thanks to you
 
     HTML5, CSS3
     jQuery, Modernizr
+Angular JS
