@@ -9,7 +9,7 @@ his a sample fo rebase
 # THANKS
 
 a big thanks to you
-
+a sample text
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
