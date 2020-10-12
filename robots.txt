@@ -7,3 +7,6 @@ adding a line
 adding 1more line
 
 adding a file
+
+adding a file
+adding a file
