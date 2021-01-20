@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alefe Lucas  alefe.lucas@letras.com
 
 # THANKS
 
-    <name>
+    You
 
 # TECHNOLOGY COLOPHON
 
