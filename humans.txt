@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    shubham   tech analyst  @snj1507
 
 # THANKS
 
-    <name>
+    Check for stashing untrack file
 
 # TECHNOLOGY COLOPHON
+
+Python 
+C#
 
     HTML5, CSS3
     jQuery, Modernizr
